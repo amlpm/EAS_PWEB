@@ -1,6 +1,6 @@
 <%-- 
-    Document   : AddUserSuccess
-    Created on : Nov 20, 2020, 7:36:38 PM
+    Document   : addProductForm
+    Created on : Nov 21, 2020, 5:03:19 PM
     Author     : marsellaeve
 --%>
 
@@ -17,12 +17,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-<jsp:include page="viewUsers.jsp"></jsp:include>
-<title>Add User Success</title>
+<title>Product Add</title>
 </head>
 <body>
-<%--<%@ include file="header.html" %>--%>
+     <%@ include file="header.html" %>  <br>
+
+<jsp:include page="productForm.html"></jsp:include>
 
 </body>
 </html>

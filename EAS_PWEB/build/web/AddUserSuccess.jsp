@@ -24,7 +24,5 @@
 <body>
 <%--<%@ include file="header.html" %>--%>
 
-<p>Record successfully saved!</p>
-
 </body>
 </html>
